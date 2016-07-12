@@ -396,6 +396,11 @@ websites:
       twitter: SCCFCU
       img: sccfcu.png
       tfa: No
+  
+    - name: Santander
+      url: http://www.santander.co.uk/
+      twitter: https://twitter.com/santanderuk
+      tfa: No
 
     - name: SchoolsFirst FCU
       url: https://www.schoolsfirstfcu.org/
